@@ -7,7 +7,7 @@ I wrote a simple web application in Python and Go it has two endpoints the root 
 
 ## Python
 
-- Application written using FastAPI and [Mangum](https://pypi.org/project/mangum/) that connects API Gateway to FastAPI
+- Application written using FastAPI and [Mangum](https://pypi.org/project/mangum/) which connects API Gateway to FastAPI
 - The [function.zip](./python/function.zip) contains the application code and all the dependencies. 
 It was a little awkward copying all the dependencies but I wanted to deploy the function without using any other frameworks or libraries that would automate the deployment.
 
